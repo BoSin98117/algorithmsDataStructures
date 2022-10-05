@@ -45,6 +45,8 @@ var searchInsert = function (nums, target) {
     return left;
 };
 
+// YouTube Explanation
+// https://www.youtube.com/watch?v=O282KYvGkyc
 
 
 
