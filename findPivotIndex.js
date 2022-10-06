@@ -46,7 +46,6 @@ console.log(pivotIndex([1, 7, 4, 6, 5, 7]));
 
 
 
-
 // Example 1:
 
 // Input: nums = [1,7,3,6,5,6]
